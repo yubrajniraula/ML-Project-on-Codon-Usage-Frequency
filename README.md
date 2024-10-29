@@ -6,6 +6,11 @@ In molecular biology, codons are sequences of three nucleotides within DNA or RN
 
 This project aims to leverage codon usage frequencies to **predict the Kingdom and DNA type** of a species. Using the relative abundance of codons across species, we can gain insights into their biological classification. **Our approach involves analyzing codon frequencies and training a predictive model to classify species by Kingdom and DNA type based on these patterns.**
 
+## Authors
+
+- **[Yubraj Niraula](https://github.com/yubrajniraula)** 
+- **[Aron Sbhatu](https://github.com/ASD-Are)** 
+
 ## Dataset
 
 This analysis uses the Codon Usage dataset, available from the UCI Machine Learning Repository. Download the dataset from the following link and place it in the project directory:
